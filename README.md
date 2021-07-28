@@ -3,6 +3,11 @@
 - 🔭 I’m now studying at Lanzhou University, majoring in physics.
 - 😄 I’m interested in the fields of theoretical condensed matter physics.
 - 🌱 I’m currently learning Tensor Network algorithm.
+
+
+![info](https://github-readme-stats.vercel.app/api?username=chenjl517&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+
 <!--
 **chenjl517/chenjl517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
