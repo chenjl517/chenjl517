@@ -1,8 +1,9 @@
-### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/chenjl517)
+### Hi there 👋
 - 🔭 I’m now studying at Lanzhou University, majoring in physics.
 - 😄 I’m interested in the fields of theoretical condensed matter physics.
 - 🌱 I’m currently learning Tensor Network algorithm.
 
+---
 
 ![info](https://github-readme-stats.vercel.app/api?username=chenjl517&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
